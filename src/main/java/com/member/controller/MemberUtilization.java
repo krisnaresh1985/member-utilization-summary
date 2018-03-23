@@ -32,7 +32,7 @@ import io.swagger.annotations.ApiResponses;
 @RestController
 @RequestMapping("/svc/mis/members")
 @Api(value = "Accums Utilization Summary Resource")
-public class MemberResources {
+public class MemberUtilization {
 	
 	@Autowired
 	private MemberUtilizationSummaryRepository memberUtilizationSummaryRepository;
