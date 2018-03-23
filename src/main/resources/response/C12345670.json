@@ -1,0 +1,20 @@
+[
+    {
+        "Uid": "C12345670",
+        "memberId": "3439478505",
+        "subId": "3439478505",
+        "memberPartyId": "C12345670",
+        "memberName": "Jim Nasium",
+        "accountNumber": "10101111",
+        "groupSectionNumber": "2100 - 1",
+        "socialSN": "555555555",
+        "relationship": "Subscriber",
+        "gender": "Male",
+        "dateOfBirth": "01/16/1970",
+        "planPeriod": "2017",
+        "benefitPeriod": "01/01/2017 - 01/01/2018",
+        "networkType": "IN",
+        "accumType": "Family OPX",
+        "corpEntityCode": "IL"
+    }
+]

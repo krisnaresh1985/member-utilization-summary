@@ -1,0 +1,38 @@
+[
+    {
+        "Uid": "D12345670",
+        "memberId": "4439478505",
+        "subId": "4439478505",
+        "memberPartyId": "D12345670",
+        "memberName": "Carla Keene",
+        "accountNumber": "10101222",
+        "groupSectionNumber": "2200 - 1",
+        "socialSN": "123456789",
+        "relationship": "Subscriber",
+        "gender": "Female",
+        "dateOfBirth": "01/16/1960",
+        "planPeriod": "2017",
+        "benefitPeriod": "01/01/2017 - 01/01/2018",
+        "networkType": "IN",
+        "accumType": "Family OPX",
+        "corpEntityCode": "TX"
+    },
+    {
+        "Uid": "D12345670",
+        "memberId": "4439478506",
+        "subId": "4439478505",
+        "memberPartyId": "D12345670",
+        "memberName": "Caroline Keene",
+        "accountNumber": "10101333",
+        "groupSectionNumber": "2200 - 1",
+        "socialSN": "987654321",
+        "relationship": "Dependent",
+        "gender": "Female",
+        "dateOfBirth": "01/16/1980",
+        "planPeriod": "2017",
+        "benefitPeriod": "01/01/2017 - 01/01/2018",
+        "networkType": "IN",
+        "accumType": "Family OPX",
+        "corpEntityCode": "TX"
+    }
+]
