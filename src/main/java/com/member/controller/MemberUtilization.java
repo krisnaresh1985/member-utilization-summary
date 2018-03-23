@@ -55,7 +55,8 @@ public class MemberUtilization {
     @ApiResponses(
             value = {
                     @ApiResponse(code = 200, message = "Created"),
-                    @ApiResponse(code = 400, message = "Not Created")
+                    @ApiResponse(code = 400, message = "Not Created"),
+                    @ApiResponse(code = 403, message = "Forbidden")
             }
     )
     @PostMapping("/updateUtilizationSummary")
